@@ -1,0 +1,6 @@
+---SQL for Data Engineering
+---For showing how many databases available we use
+show databases;
+
+---For selecting one of the databases available
+use my_database;
